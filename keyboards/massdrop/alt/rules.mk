@@ -29,6 +29,8 @@ AUDIO_ENABLE = no           # Audio output on port C6
 VIRTSER_ENABLE = no         # USB Serial Driver
 RAW_ENABLE = no             # Raw device
 AUTO_SHIFT_ENABLE = no      # Auto Shift
+NO_USB_STARTUP_CHECK = yes  # Skip USB check on startup
+
 
 # Custom RGB matrix handling
 RGB_MATRIX_ENABLE = yes
